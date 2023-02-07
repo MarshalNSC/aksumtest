@@ -1,0 +1,12 @@
+﻿l_english:
+
+ aksum_monument_decision:0 "Establish A Monument"
+ aksum_monument_decision_desc:1  "Build a testament to your glory"
+ aksum_monument_decision_tooltip:0 "For the glory of Aksum!"
+ aksum_monument_decision_effect_tooltip:0 ""We should celebrate our recent conquest as we have in the past -- with a monument that will allow future generations to marvel at our glory"
+ aksum_monument_decision_custom:0 "Won a war within the last 5 years"
+ aksum_monument_decision_confirm:1 "Raise the monument"
+
+ aksum_monument.0001.t:0 "A Victory To Remember"
+ aksum_monument.0001.desc:0 "Once again, our realm has dominated another. This monument will bear witness to the greatness of our army and of our ruler, [ROOT.Char.GetName]!"
+ aksum_monument.0001.a:0 "Glory to Aksum!"
